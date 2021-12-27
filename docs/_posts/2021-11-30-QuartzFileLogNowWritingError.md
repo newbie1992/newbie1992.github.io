@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 处理Quartz.net在运行Console程序无法写入file log的问题
 ---
 
