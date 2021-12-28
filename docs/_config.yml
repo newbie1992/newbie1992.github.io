@@ -22,7 +22,7 @@ title: newbie1992程序猿の学习笔记
 email: newbie1992@github.io
 description: >- # this means to ignore newlines until "baseurl:"
   一年多经验在用C#搞程序，只会点皮毛
-baseurl: /post # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 domain: newbie1992.github.io
 url: https://newbie1992.github.io # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
